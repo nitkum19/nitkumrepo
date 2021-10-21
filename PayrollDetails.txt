@@ -1,0 +1,21 @@
+
+
+**** Details of  Payroll**** 
+Name of the Manager: SamiA
+Calculated payroll for the Manager: 172000
+
+**** Details of  Payroll**** 
+Name of the SEE: NareshN
+Calculated payroll for the SEE: 147000
+
+**** Details of  Payroll****
+Name of the SE: NiteshN
+Calculated payroll for the SE: 75000
+
+**** Details of  Employee**** 
+Employee Name: Gurnam
+Employee ID: 232323
+Basic Salary: 20000
+Employee HRA: 20000
+Income Tax: 1200
+Net Salary: 58800
